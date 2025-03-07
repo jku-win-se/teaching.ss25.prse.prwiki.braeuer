@@ -3,7 +3,7 @@
 ## Important Links:
 
 - Slides: [/slides](/slides) 
-- User-Stories: [Projektbeschreibung](documents/Projektbeschreibung.pdf) 
+- User-Stories: [Projektbeschreibung](documents/) 
 - Release Präsentationen: [Templates](/templates)
 <!--
 - Projektdokumentation Template: [Vorlage Projektdokumentation](documents/VorlageProjektdokumentation.pdf) 
