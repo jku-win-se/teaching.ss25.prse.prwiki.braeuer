@@ -42,7 +42,7 @@
 |20.05.|&#x1F4D8;| Di. 12.00 - Release 3 |&#x1F4D8;|
 |23.05.|&#x1F536;| Release 3 Review |&#x1F536;|
 |||*__Juni__*||
-| - |&#x1F539;| Individual Group Meetings|&#x1F539;|
+| - |&#x1F539;| individuelle Gruppenmeetings |&#x1F539;|
 |13.6.|&#x1F536;| Abschlusspräsentation |&#x1F536;|
 |27.6.|&#x1F536;| Projektabgabe |&#x1F536;|
 
