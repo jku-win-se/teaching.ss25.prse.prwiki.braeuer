@@ -45,5 +45,3 @@
 | - |&#x1F539;| individuelle Gruppenmeetings |&#x1F539;|
 |13.6.|&#x1F536;| Abschlusspräsentation |&#x1F536;|
 |27.6.|&#x1F536;| Projektabgabe |&#x1F536;|
-
- 
